@@ -3,7 +3,7 @@ package excel.export;
 /**
  * @Author 王宇
  * @DATE 2017/12/4.
- * @Description 大数据导出相关
+ * @Description 数据导出相关
  */
 public class ExportConstant {
 
